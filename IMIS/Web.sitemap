@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Home.aspx" title="Dashboard"  description="Dashboard Page" >
+   	
+	<siteMapNode url="" title="Household Members and Programs"  description="Household Members and Programs Page">
+      <siteMapNode url ="Family.aspx" title="Add Household"  description="Add Household Page"></siteMapNode>
+      <siteMapNode url ="FindFamily.aspx" title="Household"  description="Household Page"></siteMapNode>
+	  <siteMapNode url ="FindInsuree.aspx" title="Household Members"  description="Household Members Page"></siteMapNode>
+	  <siteMapNode url ="FindPolicy.aspx" title="Programs"  description="Programs Page"></siteMapNode>
+    </siteMapNode>
+	
+	
+	<siteMapNode url="" title="Payroll Management"  description="Payroll Management Page">
+    <siteMapNode url ="AddPayrollCycle.aspx" title="Add Payroll Cycle"  description="Add Payroll Cycle Page"></siteMapNode>
+<siteMapNode url ="GeneratePayment.aspx" title="Generate Payroll"  description="Generate Payroll Page"></siteMapNode>
+<siteMapNode url ="PaymentGroupReport.aspx" title="Approve Payroll"  description="Approve Payroll Page"></siteMapNode>
+<siteMapNode url ="PaymentGroupReportApproved.aspx" title="Approved Payroll"  description="Approved Payroll Page"></siteMapNode>
+<siteMapNode url ="FindPaymentProviderPayments.aspx" title="Payment Provider Payments"  description="Payment Provider Payments Page"></siteMapNode>
+<siteMapNode url ="PaymentProviderStatusReport.aspx" title="Payment Provider Status Report"  description="Payment Provider Status Report Page"></siteMapNode>
+   
+    
+       </siteMapNode>
+	
+
+	
+	<siteMapNode url="" title="Administration"  description="Administration Page">
+      <siteMapNode url ="FindProduct.aspx" title="Programs"  description="Programs Page"></siteMapNode>
+      <siteMapNode url ="FindHealthFacility.aspx" title="Payment Service Providers"  description="Payment Service Providers Page"></siteMapNode>
+	  <siteMapNode url ="FindUser.aspx" title="Users"  description="Users Page"></siteMapNode>
+      <siteMapNode url ="FindProfile.aspx" title="User Profiles"  description="User Profiles Page"></siteMapNode>
+    <siteMapNode url ="FindOfficer.aspx" title="Enrolment Officers"  description="Enrolment Officers Page"></siteMapNode>
+      <siteMapNode url ="FindClaimAdministrator.aspx" title="Claim Administrators"  description="Claim Administrators Page"></siteMapNode>
+    <siteMapNode url ="FindPayer.aspx" title="Payers"  description="Payers Page"></siteMapNode>
+	<siteMapNode url ="Locations.aspx" title="Locations"  description="Locations Page"></siteMapNode>
+    </siteMapNode>
+	
+	
+	<siteMapNode url="" title="Tools"  description="Tools Page">
+      <siteMapNode url ="Registers.aspx" title="Registers"  description="Registers Page"></siteMapNode>
+      <siteMapNode url ="UploadFamilyDetails.aspx" title="Upload Household Details"  description="Upload Household Details Page"></siteMapNode>
+	  <siteMapNode url ="PolicyRenewal.aspx" title="Policy Renewals"  description="Policy Renewals Page"></siteMapNode>
+      <siteMapNode url ="FeedbackPrompt.aspx" title="Feedback Prompts"  description="Feedback Prompts Page"></siteMapNode>
+    <siteMapNode url ="IMISExtracts.aspx" title="Extracts"  description="Extracts Page"></siteMapNode>
+      <siteMapNode url ="Reports.aspx" title="Reports"  description="Reports Page"></siteMapNode>
+	  <siteMapNode url ="Utilities.aspx" title="Utilities"  description="Utilities Page"></siteMapNode>
+      <siteMapNode url ="AddFunding.aspx" title="Funding"  description="Funding Page"></siteMapNode>
+      <siteMapNode url ="EmailSettings.aspx" title="Email Settings"  description="Email Settings Page"></siteMapNode>
+	</siteMapNode>
+	
+	
+    
+  </siteMapNode>
+</siteMap>
